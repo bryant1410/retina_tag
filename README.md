@@ -58,5 +58,5 @@ If you set `:lazy => true` on an image_tag, the src attribute is moved to a data
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-##License
+## License
 This project is licensed under the MIT License.
